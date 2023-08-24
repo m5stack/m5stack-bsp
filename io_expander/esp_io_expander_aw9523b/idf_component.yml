@@ -1,0 +1,7 @@
+dependencies:
+  esp_io_expander:
+    version: ^1.0.1
+  idf: '>=4.4.2'
+description: ESP IO Expander - AW9523B
+url: https://github.com/IcingTomato/esp-components/tree/master/components/io_expander/esp_io_expander_aw9523b
+version: 1.0.0
